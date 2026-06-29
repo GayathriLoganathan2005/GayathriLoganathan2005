@@ -18,13 +18,10 @@ Dedicated **Electronics and Communication Engineering** undergraduate with stron
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| **Core Electronics** | Digital Electronics, Electronic Circuits, VLSI Design, RTL Design & Verification, Verilog HDL, System Verilog[cite: 1] |
-| **Embedded & IoT** | Microprocessor & Microcontroller, Arduino, ESP32, ESP8266, IoT Sensor Interfacing, Raspberry Pi[cite: 1] |
-| **Programming** | Embedded C, Python, C++, Object-Oriented Programming (OOPs)[cite: 1] |
-| **Software Ecosystem** | MATLAB, Cadence, Arduino IDE, VS Code, Google Colab, EDA Playground[cite: 1] |
-
----
-
+| **Core Electronics** | Digital Electronics, Electronic Circuits, VLSI Design, RTL Design & Verification, Verilog HDL, System Verilog |
+| **Embedded & IoT** | Microprocessor & Microcontroller, Arduino, ESP32, ESP8266, IoT Sensor Interfacing, Raspberry Pi |
+| **Programming** | Embedded C, Python, C++, Object-Oriented Programming (OOPs) |
+| **Software Ecosystem** | MATLAB, Cadence, Arduino IDE, VS Code, Google Colab, EDA Playground |
 ### 📂 Highlighted Engineering Projects
 
 <details>
